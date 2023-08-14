@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FlamboD
 - 👀 I’m interested in video games, books and coding
-- 🌱 I’m currently learning how to develop an app at Cape Peninsula University of Technology
 - 📫 You can reach me at SkyeCodesThings@gmail.com
 
 <!---
